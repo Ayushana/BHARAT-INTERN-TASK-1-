@@ -1,4 +1,4 @@
-
+# HI EVERYONE , I AM AYUSH ANAND I HAVE COMPLETED MY TASK 1 (House Price Prediction ) of BHARAT INTERN (1 Month Internship program )
 # House Price Prediction
 ---
 
@@ -24,7 +24,7 @@ The project uses data from the `house.csv` file, where the 'TIME' (year) and 'Va
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/ReddySruthi04/House-Price-Prediction.git
+    git clone https://github.com/Ayushana/BHARAT-INTERN-TASK-1-.git
     ```
 
 2. Install dependencies:
